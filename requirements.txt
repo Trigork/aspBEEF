@@ -2,7 +2,7 @@ asprin==3.1.0
 certifi==2019.6.16
 colander==0.9.9
 cycler==0.10.0
-Flask==0.10.1
+Flask==1.0
 inputs==0.5
 iso8601==0.1.8
 itsdangerous==1.1.0
